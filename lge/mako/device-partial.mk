@@ -23,4 +23,11 @@ PRODUCT_COPY_FILES := \
     vendor/lge/mako/proprietary/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02:lge \
     vendor/lge/mako/proprietary/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03:lge \
     vendor/lge/mako/proprietary/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt:lge \
+    vendor/lge/mako/proprietary/dxhdcp2.b00:system/vendor/firmware/discretix/dxhdcp2.b00 \
+    vendor/lge/mako/proprietary/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01 \
+    vendor/lge/mako/proprietary/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
+    vendor/lge/mako/proprietary/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03 \
+    vendor/lge/mako/proprietary/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
+    vendor/lge/mako/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg \
+    vendor/lge/mako/proprietary/libDxHdcp.so:system/lib/libDxHdcp.so
 
